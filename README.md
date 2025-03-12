@@ -34,3 +34,17 @@ Projekt ma na celu stworzenie modelu sieci neuronowej zdolnego do rozpoznawania 
 
 **7. Podsumowanie**
 Projekt pozwoli na zdobycie praktycznej wiedzy z zakresu sieci neuronowych, analizy danych oraz implementacji modeli uczenia maszynowego. Może zostać wykorzystany jako wstęp do bardziej zaawansowanych systemów rozpoznawania obrazów.
+
+**Opis techniczny**
+![MSI1(12 03 2025) drawio](https://github.com/user-attachments/assets/37d0ab92-c00f-4b11-b238-ccb809c520c1)
+
+
+
+**Opis użytkowniczy**
+![MSI2(12 05 2025) drawio](https://github.com/user-attachments/assets/37632520-1c24-4348-a4c6-48e3c9b6f595)
+
+
+
+
+
+
