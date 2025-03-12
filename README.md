@@ -26,11 +26,11 @@ Projekt ma na celu stworzenie modelu sieci neuronowej zdolnego do rozpoznawania 
 - Interaktywne rysowanie cyfr i ich klasyfikacja.
 
 **6. Harmonogram**
-1. Przygotowanie danych i analiza (1 tydzień).
+1. Przygotowanie danych i analiza.
 2. Budowa i trenowanie modelu (2 tygodnie).
-3. Ocena skuteczności i poprawa modelu (1 tydzień).
-4. Implementacja interaktywnej funkcji rysowania (opcjonalnie) (1 tydzień).
-5. Dokumentacja i prezentacja wyników (1 tydzień).
+3. Ocena skuteczności i poprawa modelu.
+4. Implementacja interaktywnej funkcji rysowania (opcjonalnie).
+5. Dokumentacja i prezentacja wyników.
 
 **7. Podsumowanie**
 Projekt pozwoli na zdobycie praktycznej wiedzy z zakresu sieci neuronowych, analizy danych oraz implementacji modeli uczenia maszynowego. Może zostać wykorzystany jako wstęp do bardziej zaawansowanych systemów rozpoznawania obrazów.
