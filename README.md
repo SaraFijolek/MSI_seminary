@@ -27,7 +27,7 @@ Projekt ma na celu stworzenie modelu sieci neuronowej zdolnego do rozpoznawania 
 
 **6. Harmonogram**
 1. Przygotowanie danych i analiza.
-2. Budowa i trenowanie modelu (2 tygodnie).
+2. Budowa i trenowanie modelu 
 3. Ocena skuteczności i poprawa modelu.
 4. Implementacja interaktywnej funkcji rysowania (opcjonalnie).
 5. Dokumentacja i prezentacja wyników.
